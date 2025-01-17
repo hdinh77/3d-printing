@@ -10,3 +10,5 @@
 - preferences and projects linked to Autodesk account
 - web client is cloud collaboration tool: [http://www.autodesk.com/fusion-team](http://www.autodesk.com/fusion-team)
 - all projects stored there, can annotate, view certain parts, exploded assembly, compare versions
+
+https://www.autodesk.com/learn/ondemand/curated/introduction-to-fusion
