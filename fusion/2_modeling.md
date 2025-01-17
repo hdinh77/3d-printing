@@ -15,6 +15,8 @@
 - before extruding to 3D shape, sketch must be closed profile (no gaps and shaded in blue)
 - fillet can be used to round corners (on intersection of two straight lines)
 - make sure to close any lines removed from fillets
+
+### Constraints
 - defined sketches have some dimensional or positional relationship with other sketch features (i.e. moving edges in space that you don't want to do)
 - undefined sketches are blue, fully defined are black lines
 - use constraints to define the sketch
@@ -26,6 +28,7 @@
 - use coincident to line up the endpoints of construction lines (dashed) with perimiter (black) lines
   - now when modifying perimeter, construction lines also adjust
 - make sure to add dimensions to fully define the sketch
-  
+
+### Extruding solid bodies
 
 https://www.autodesk.com/learn/ondemand/curated/get-started-with-modeling
