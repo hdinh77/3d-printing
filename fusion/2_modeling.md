@@ -30,5 +30,17 @@
 - make sure to add dimensions to fully define the sketch
 
 ### Extruding solid bodies
+- can extrude/create a solid body from a sketch
+- "symmetric" to add solid to both sides
+- can extrude "thin" features which is like a wall/border of the sketch to protrude off it
+- hold on object to see all hidden geometry
+- if new extrusion overlaps with existing, it switches to cut so it removes from the solid
+- to have the cut remove any material in future, "extend to all"
+- "symmetric" to get both sides on that plane
+
+### Modify solid bodies with press/pull
+- press and pull, fusion automatically opens dialog
+
+### Add fillets to solid bodies
 
 https://www.autodesk.com/learn/ondemand/curated/get-started-with-modeling
